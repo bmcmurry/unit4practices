@@ -39,7 +39,7 @@ def test_add_already_existing_student():
         algebra.add_student("Bryan")
 
 
-def test_no_student_check_in():
+def test_no_student_check_in1():
     algebra = AttendanceTracker()
 
     algebra.add_student("Connor")
