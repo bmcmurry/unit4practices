@@ -1,6 +1,5 @@
 from django.test import TestCase
 from app import models as m
-import pytest
 
 # Create your tests here.
 
