@@ -5,7 +5,7 @@ In this practice you need to accomplish the following:
 
 - [ ] 'Assignment Name' a string that is the name of the assignment.
 - [ ] 'Percentage' - an integer stating the number grade the student received on that assignment. This should default to 0 if no grade is given and should only allow you to put a number between 0 and 100.
-- [ ] 'Student Name' a string that is the name of the student 
+- [ ] 'Student Name' a string that is the name of the student
 - [ ] 'Date' a datetime field that gives the day month and year of when the assignment was given.
 - [ ] 'Notes' an optional string field for any extra notations.
 
