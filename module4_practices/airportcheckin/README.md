@@ -6,7 +6,7 @@
 - [ ] 'Date' a DateField that takes datetime with date of the flight.
 - [ ] 'Destination' a TextField that takes the destination.
 - [ ] 'Passenger' a TextField that takes the passenger name.
-- [ ] 'Bags' a IntegerField that takes the number of checked luggage.
+- [ ] 'Bags' an OPTIONAL that defaults to 0, IntegerField that takes the number of checked luggage.
 - [ ] 'FirstClass' a BooleanField that takes True/False for if they are first class or not. It should default to False.
 
 3. You should have the following functions capable in your model:
