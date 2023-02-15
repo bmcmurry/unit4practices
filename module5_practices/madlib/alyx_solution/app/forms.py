@@ -1,5 +1,4 @@
 from django import forms
-from app.models import Person
 
 
 class MadlibForm(forms.Form):
